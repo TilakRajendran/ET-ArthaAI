@@ -60,7 +60,3 @@ streamlit run app.py
 * `frondend.py`: Another Streamlit variant with an enterprise-prestige aesthetic.
 * `main.py`: Core backend logic and LLM architecture.
 * `requirements.txt`: Python dependencies required to run the platform.
-
-Drive link:https://drive.google.com/drive/folders/1JpLgpxV1tdPPfnRN6CJy3yp5vgXmXVMg?usp=sharing
- 
-DRIVE LINK HAS(Pitch Video, Architecture, Business Impact Model, Presentation)

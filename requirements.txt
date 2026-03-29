@@ -1,0 +1,7 @@
+streamlit
+crewai
+plotly
+pandas
+python-dotenv
+langchain-google-genai
+pydantic
